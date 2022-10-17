@@ -1,0 +1,33 @@
+body{background-color:#002E94;
+  Font-Family:Arial;
+  Font-size:1.25rem;
+  color:#E1CeB5}
+
+a:link{color:#E1CEB5}
+a:Visited{color:#E1CEB5}
+a:Hover{color:#E1CeB5}
+
+.profilePic{border-radius:50%;
+height:200px;
+Width:200px}
+
+.profileAlignment{Padding-left:20%;
+Padding-right:20%}
+
+.centerTable{Margin-left:auto;
+Margin-right:auto}
+
+.linkCells{Padding:10px}
+
+.infoAlignment{Margin-left:auto;
+Margin-right:auto}
+
+.headOneAlign{Text-align:center}
+
+ol{list-style-type:upper-roman}
+
+.olLevelTwo{list-style-type:lower-roman}
+
+.ulListType{List-style-type:none}
+
+.songTitle{Font-weight:bold;Font-style:italic;Text-decoration-line:underline;Display:inline}
